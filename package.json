@@ -1,5 +1,5 @@
 {
-  "name": "fileupload",
+  "name": "FileUploader",
   "version": "1.0.0",
   "description": "simple app to upload files to mongodb",
   "main": "server.js",
